@@ -74,11 +74,14 @@ Here’s a sample of how the data is structured:
 
 ## Methodology
 The dataset was built using a multi-phase process:
-
 1. **Data Selection**: The initial data were sourced from the Diwan dataset, including thousands of Arabic poetic verses.
 2. **Frahidi System**: The Frahidi system was used to automatically extract all relevant prosodic features from the verses, including taf'ilat, rhyme patterns, and metrical writing.
 3. **Database Construction**: The extracted data was compiled into the Awzān dataset, ensuring a complete solution space for all Arabic poetic meters.
 4. **Verification and Evaluation**: Expert linguists manually verified the data to ensure accuracy and completeness.
+
+ <p align="center"> 
+ <img src = "https://raw.githubusercontent.com/NoorBayan/Awzan/main/images/AwzanMethodology.png" width = "400px"/>
+ </p>
 
 ---
 
