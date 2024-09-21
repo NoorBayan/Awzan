@@ -84,19 +84,23 @@ The dataset was built using a multi-phase process:
  </p>
 
 ---
-
 ## Usage
 The Awzān dataset can be used for:
 - Training and fine-tuning machine learning models for Arabic poetry analysis.
 - Developing tools for meter and rhyme pattern recognition in classical Arabic poetry.
 - Advancing research in Arabic prosody, poetic metrics, and NLP applications for the Arabic language.
 
-### Example Usage:
-```python
-import Awzān
+### Explore Awzan on Google Colab
+To explore the full details of the Awzan dataset and interact with its extensive features, access our interactive Google Colab notebook. This notebook provides an easy-to-use interface for searching, analyzing, and learning more about the Awzan dataset.
 
-# Load dataset
-data = Awzān.load_data('path/to/Awzān.csv')
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1c2AsPfdwj4ELEypTEmsSTewtVQ8MVXP3?usp=drive_link)
 
-# Explore a sample
-print(data.head())
+ <p align="center">
+   <img src = "https://raw.githubusercontent.com/NoorBayan/Awzan/main/images/AwzanColab.png" width = "800px"/>
+ </p>
+
+### Steps to Use Awzan on Google Colab:
+1. **Run the first cell** by clicking the "Run" button to load the necessary files and libraries.
+2. **Execute the notebook**, and dropdown menus will appear with various poetry categories. You can experiment by selecting different options, and the corresponding poetic data will be displayed based on your choices.
+
+---
